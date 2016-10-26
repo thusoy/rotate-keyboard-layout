@@ -11,7 +11,7 @@ if sys.version_info < (2, 7, 0):
 
 setup(
     name='rotate-keyboard-layout',
-    version='1.0.0',
+    version='1.0.1',
     author='Tarjei Husøy',
     author_email='git@thusoy.com',
     url='https://github.com/thusoy/rotate-keyboard-layout',
