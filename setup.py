@@ -16,7 +16,7 @@ setup(
     author_email='git@thusoy.com',
     url='https://github.com/thusoy/rotate-keyboard-layout',
     description="Simple script to rotate among X keyboard layouts",
-    modules=['rotate_keyboard_layout'],
+    py_modules=['rotate_keyboard_layout'],
     install_requires=install_requires,
     entry_points={
         'console_scripts': [
